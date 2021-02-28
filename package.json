@@ -1,0 +1,15 @@
+{
+  "name": "mkDirCommand",
+  "version": "1.0.0",
+  "description": "",
+  "main": "myMkdir.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "myMkdir2": "myMkdir.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
